@@ -21,7 +21,7 @@ opt = parser.parse_args()
 
             
 def test(result_txt,generator_path,result_root,testsize=352):
-    dataset_path = '/home/liaixuan/aaai2022/test/'
+    dataset_path = './test/'
     pre_root_rgbd = result_root + '_rgbd_test' + '/'
 
     model = Generator2(channel=32)
