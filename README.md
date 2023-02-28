@@ -1,5 +1,8 @@
 ## Mutual Information Regularization for Weakly-supervised RGB-D Salient Object Detection
-
+## Set up
+  pip install -r requirements.txt
+  cd ./first_stage/kernels/lib_tree_filter
+  python setup.py build develop
 ## Data preparation
 1. Please download data and put it in  '/train_data/' [train_data](https://drive.google.com/file/d/1up2LL6NpMMX38YeNa_6mWAayTyvkj9Mj/view?usp=sharing)  
 2. Please download the pseodu label of train_data tested by the first_stage model and put it in  "./first_stage/models/results_train/" [MVAE_refine](https://drive.google.com/file/d/1v678xKmDLzM6ZsKsH30rsKVXaS4swqj9/view?usp=sharing)  
