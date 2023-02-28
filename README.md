@@ -1,5 +1,5 @@
 # Mutual Information Regularization for Weakly-supervised RGB-D Salient Object Detection
-![](https://github.com/baneitixiaomai/MIRV/overview.pdf)  
+![](https://github.com/baneitixiaomai/MIRV/blob/main/overview_00.png)  
 ## Set up
 
 - pip install -r requirements.txt  
