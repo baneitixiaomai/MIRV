@@ -16,9 +16,9 @@
 - Run ./MVAE_refine/test.py 
 
 ## Trained model:
-Please download the trained model and put it in "./first_stage/models": [first_stage](https://drive.google.com/file/d/1pGEclv5zNA878u2x5iCDcToC7hpmYNI1/view?usp=sharing);
-"./MVAE_refine/models": [MVAE_refine](https://drive.google.com/file/d/1yTmmMu_ZsUrqkxb1zaR5mQXhHhfY4vP6/view?usp=sharing)
+Please download the trained model and put it in "./first_stage/models":  [[Google_Drive]](https://drive.google.com/file/d/1pGEclv5zNA878u2x5iCDcToC7hpmYNI1/view?usp=sharing);
+"./MVAE_refine/models":  [[Google_Drive]](https://drive.google.com/file/d/1yTmmMu_ZsUrqkxb1zaR5mQXhHhfY4vP6/view?usp=sharing)
   
 ##  Prediction Maps
-Results of our model on six benchmark datasets can be found: [first_stage](https://drive.google.com/file/d/12ZFJYII9j9_hCDVI307l6Bjd5YpDnMF2/view?usp=sharing);[MVAE_refine](https://drive.google.com/file/d/1gaJjDnUKktNhTbuGn7zJf3EFmlSrpBBF/view?usp=sharing)
+Results of our model on six benchmark datasets(NJU2K, SSB, DES, NLPR, LFSD, SIP) can be found: [first_stage](https://drive.google.com/file/d/12ZFJYII9j9_hCDVI307l6Bjd5YpDnMF2/view?usp=sharing);[MVAE_refine](https://drive.google.com/file/d/1gaJjDnUKktNhTbuGn7zJf3EFmlSrpBBF/view?usp=sharing)
  
