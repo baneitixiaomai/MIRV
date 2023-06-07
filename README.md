@@ -1,5 +1,4 @@
-# Mutual Information Regularization for Weakly-supervised RGB-D Salient Object Detection (TCSVT2023)
-[[paper]](https://arxiv.org/pdf/2306.03630.pdf)
+# Mutual Information Regularization for Weakly-supervised RGB-D Salient Object Detection (TCSVT2023) [[paper]](https://arxiv.org/pdf/2306.03630.pdf)
 ![](https://github.com/baneitixiaomai/MIRV/blob/main/overview_00.png)  
 ## Set up
 
